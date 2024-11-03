@@ -1,0 +1,1318 @@
+{
+  "data": [
+      {
+          "id": 0,
+          "image": null,
+          "name": "Крепость Круглого стола",
+          "regionId": null
+      },
+      {
+          "id": 1,
+          "image": null,
+          "name": "Грязная пещера",
+          "regionId": null
+      },
+      {
+          "id": 2,
+          "image": null,
+          "name": "Грязные катакомбы",
+          "regionId": null
+      },
+      {
+          "id": 3,
+          "image": null,
+          "name": "Деревня у вод призыва",
+          "regionId": null
+      },
+      {
+          "id": 4,
+          "image": null,
+          "name": "Жертвенный мост",
+          "regionId": null
+      },
+      {
+          "id": 5,
+          "image": null,
+          "name": "Катакомбы под скалой",
+          "regionId": null
+      },
+      {
+          "id": 6,
+          "image": null,
+          "name": "Лачуга творца (Замогилье)",
+          "regionId": null
+      },
+      {
+          "id": 7,
+          "image": null,
+          "name": "Лесная пещера",
+          "regionId": null
+      },
+      {
+          "id": 8,
+          "image": null,
+          "name": "Малое Древо Эрд (Замогилье)",
+          "regionId": null
+      },
+      {
+          "id": 9,
+          "image": null,
+          "name": "Могила героя окраин",
+          "regionId": null
+      },
+      {
+          "id": 10,
+          "image": null,
+          "name": "Плавучее кладбище",
+          "regionId": null
+      },
+      {
+          "id": 11,
+          "image": null,
+          "name": "Прибрежная пещера",
+          "regionId": null
+      },
+      {
+          "id": 12,
+          "image": null,
+          "name": "Речной источник Сиофра",
+          "regionId": null
+      },
+      {
+          "id": 13,
+          "image": null,
+          "name": "Руины в Туманном лесу",
+          "regionId": null
+      },
+      {
+          "id": 14,
+          "image": null,
+          "name": "Руины поселения",
+          "regionId": null
+      },
+      {
+          "id": 15,
+          "image": null,
+          "name": "Руины у ворот",
+          "regionId": null
+      },
+      {
+          "id": 16,
+          "image": null,
+          "name": "Сожжённые руины",
+          "regionId": null
+      },
+      {
+          "id": 17,
+          "image": null,
+          "name": "Третий храм Марики",
+          "regionId": null
+      },
+      {
+          "id": 18,
+          "image": null,
+          "name": "Туннель Замогилья",
+          "regionId": null
+      },
+      {
+          "id": 19,
+          "image": null,
+          "name": "Узилище одинокой ищейки",
+          "regionId": null
+      },
+      {
+          "id": 20,
+          "image": null,
+          "name": "Форт Хейт",
+          "regionId": null
+      },
+      {
+          "id": 21,
+          "image": null,
+          "name": "Храм драконьего причастия (Замогилье)",
+          "regionId": null
+      },
+      {
+          "id": 22,
+          "image": null,
+          "name": "Храм Элле",
+          "regionId": null
+      },
+      {
+          "id": 23,
+          "image": null,
+          "name": "Грозовые врата",
+          "regionId": null
+      },
+      {
+          "id": 24,
+          "image": null,
+          "name": "Замок Грозовой Завесы",
+          "regionId": null
+      },
+      {
+          "id": 25,
+          "image": null,
+          "name": "Лачуга воителя",
+          "regionId": null
+      },
+      {
+          "id": 26,
+          "image": null,
+          "name": "Пещера под дорогой",
+          "regionId": null
+      },
+      {
+          "id": 27,
+          "image": null,
+          "name": "Помертвелые катакомбы",
+          "regionId": null
+      },
+      {
+          "id": 28,
+          "image": null,
+          "name": "Священная башня Замогилья",
+          "regionId": null
+      },
+      {
+          "id": 29,
+          "image": null,
+          "name": "Узилище на Грозовом холме",
+          "regionId": null
+      },
+      {
+          "id": 30,
+          "image": null,
+          "name": "Колизей Замогилья",
+          "regionId": null
+      },
+      {
+          "id": 31,
+          "image": null,
+          "name": "Баптистерий Каллу",
+          "regionId": null
+      },
+      {
+          "id": 32,
+          "image": null,
+          "name": "Башня возвращения",
+          "regionId": null
+      },
+      {
+          "id": 33,
+          "image": null,
+          "name": "Башня Оридиса",
+          "regionId": null
+      },
+      {
+          "id": 34,
+          "image": null,
+          "name": "Ведущая к гробнице пещера",
+          "regionId": null
+      },
+      {
+          "id": 35,
+          "image": null,
+          "name": "Ведущие в гробницу катакомбы",
+          "regionId": null
+      },
+      {
+          "id": 36,
+          "image": null,
+          "name": "Ведущие к гробнице развалины",
+          "regionId": null
+      },
+      {
+          "id": 37,
+          "image": null,
+          "name": "Замок Морн",
+          "regionId": null
+      },
+      {
+          "id": 38,
+          "image": null,
+          "name": "Катакомбы Колосажателя",
+          "regionId": null
+      },
+      {
+          "id": 39,
+          "image": null,
+          "name": "Лачуга торговца-затворника (Плачущий полуостров)",
+          "regionId": null
+      },
+      {
+          "id": 40,
+          "image": null,
+          "name": "Лесные руины полулюдей",
+          "regionId": null
+      },
+      {
+          "id": 41,
+          "image": null,
+          "name": "Лесная сторожевая башня",
+          "regionId": null
+      },
+      {
+          "id": 42,
+          "image": null,
+          "name": "Малое Древо Эрд (Плачущий полуостров)",
+          "regionId": null
+      },
+      {
+          "id": 43,
+          "image": null,
+          "name": "Плачущее узилище",
+          "regionId": null
+      },
+      {
+          "id": 44,
+          "image": null,
+          "name": "Подземная пещера",
+          "regionId": null
+      },
+      {
+          "id": 45,
+          "image": null,
+          "name": "Руины Бича ведьм",
+          "regionId": null
+      },
+      {
+          "id": 46,
+          "image": null,
+          "name": "Туннель Морна",
+          "regionId": null
+      },
+      {
+          "id": 47,
+          "image": null,
+          "name": "Храм паломничества",
+          "regionId": null
+      },
+      {
+          "id": 48,
+          "image": null,
+          "name": "Четвёртый храм Марики",
+          "regionId": null
+      },
+      {
+          "id": 49,
+          "image": null,
+          "name": "Академия Райи Лукарии",
+          "regionId": null
+      },
+      {
+          "id": 50,
+          "image": null,
+          "name": "Башня Тэсту",
+          "regionId": null
+      },
+      {
+          "id": 51,
+          "image": null,
+          "name": "Деревня альбиноров",
+          "regionId": null
+      },
+      {
+          "id": 52,
+          "image": null,
+          "name": "Изменённая башня",
+          "regionId": null
+      },
+      {
+          "id": 53,
+          "image": null,
+          "name": "Карианский читальный зал",
+          "regionId": null
+      },
+      {
+          "id": 54,
+          "image": null,
+          "name": "Катакомбы под утёсом",
+          "regionId": null
+      },
+      {
+          "id": 55,
+          "image": null,
+          "name": "Катакомбы у тупика",
+          "regionId": null
+      },
+      {
+          "id": 56,
+          "image": null,
+          "name": "Кристальная береговая пещера",
+          "regionId": null
+      },
+      {
+          "id": 57,
+          "image": null,
+          "name": "Кристальная пещера академии",
+          "regionId": null
+      },
+      {
+          "id": 58,
+          "image": null,
+          "name": "Кристальный туннель Райи Лукарии",
+          "regionId": null
+      },
+      {
+          "id": 59,
+          "image": null,
+          "name": "Кувшинград",
+          "regionId": null
+      },
+      {
+          "id": 60,
+          "image": null,
+          "name": "Лачуга волчьего ночлега",
+          "regionId": null
+      },
+      {
+          "id": 61,
+          "image": null,
+          "name": "Лачуга любителя креветок",
+          "regionId": null
+      },
+      {
+          "id": 62,
+          "image": null,
+          "name": "Лачуга Мстителя",
+          "regionId": null
+      },
+      {
+          "id": 63,
+          "image": null,
+          "name": "Лачуга творца (Озёрная Лиурния)",
+          "regionId": null
+      },
+      {
+          "id": 64,
+          "image": null,
+          "name": "Малое Древо Эрд (Озёрная Лиурния, восток)",
+          "regionId": null
+      },
+      {
+          "id": 65,
+          "image": null,
+          "name": "Малое Древо Эрд (Озёрная Лиурния, запад)",
+          "regionId": null
+      },
+      {
+          "id": 66,
+          "image": null,
+          "name": "Очищенные руины",
+          "regionId": null
+      },
+      {
+          "id": 67,
+          "image": null,
+          "name": "Пещера тихого омута",
+          "regionId": null
+      },
+      {
+          "id": 68,
+          "image": null,
+          "name": "Поместье Карии",
+          "regionId": null
+      },
+      {
+          "id": 69,
+          "image": null,
+          "name": "Предместье академии",
+          "regionId": null
+      },
+      {
+          "id": 70,
+          "image": null,
+          "name": "Речной источник Ансель",
+          "regionId": null
+      },
+      {
+          "id": 71,
+          "image": null,
+          "name": "Руины королевских владений",
+          "regionId": null
+      },
+      {
+          "id": 72,
+          "image": null,
+          "name": "Руины Ласкьяра",
+          "regionId": null
+      },
+      {
+          "id": 73,
+          "image": null,
+          "name": "Священная башня Лиурнии",
+          "regionId": null
+      },
+      {
+          "id": 74,
+          "image": null,
+          "name": "Сторожевая башня тракта (Озёрная Лиурния)",
+          "regionId": null
+      },
+      {
+          "id": 75,
+          "image": null,
+          "name": "Узилище королевской могилы",
+          "regionId": null
+      },
+      {
+          "id": 76,
+          "image": null,
+          "name": "Узилище Кукушки",
+          "regionId": null
+      },
+      {
+          "id": 77,
+          "image": null,
+          "name": "Узилище лиходея",
+          "regionId": null
+      },
+      {
+          "id": 78,
+          "image": null,
+          "name": "Усыпанный руинами обрыв",
+          "regionId": null
+      },
+      {
+          "id": 79,
+          "image": null,
+          "name": "Храм Ирит",
+          "regionId": null
+      },
+      {
+          "id": 80,
+          "image": null,
+          "name": "Храм клятв",
+          "regionId": null
+      },
+      {
+          "id": 81,
+          "image": null,
+          "name": "Храм роз",
+          "regionId": null
+      },
+      {
+          "id": 82,
+          "image": null,
+          "name": "Храмовый квартал",
+          "regionId": null
+      },
+      {
+          "id": 83,
+          "image": null,
+          "name": "Четыре колокольни",
+          "regionId": null
+      },
+      {
+          "id": 84,
+          "image": null,
+          "name": "Башня Ренни",
+          "regionId": null
+      },
+      {
+          "id": 85,
+          "image": null,
+          "name": "Башня Ренны",
+          "regionId": null
+      },
+      {
+          "id": 86,
+          "image": null,
+          "name": "Башня Селувиса",
+          "regionId": null
+      },
+      {
+          "id": 87,
+          "image": null,
+          "name": "Башня Кхелоны",
+          "regionId": null
+      },
+      {
+          "id": 88,
+          "image": null,
+          "name": "Глубины реки Ансель",
+          "regionId": null
+      },
+      {
+          "id": 89,
+          "image": null,
+          "name": "Руины лунного народа",
+          "regionId": null
+      },
+      {
+          "id": 90,
+          "image": null,
+          "name": "Руины лунного особняка",
+          "regionId": null
+      },
+      {
+          "id": 91,
+          "image": null,
+          "name": "Собор Мануса Целеса",
+          "regionId": null
+      },
+      {
+          "id": 92,
+          "image": null,
+          "name": "Узилище главаря",
+          "regionId": null
+      },
+      {
+          "id": 93,
+          "image": null,
+          "name": "Башня Яростного Пламени",
+          "regionId": null
+      },
+      {
+          "id": 94,
+          "image": null,
+          "name": "Великий подъёмник Дектуса",
+          "regionId": null
+      },
+      {
+          "id": 95,
+          "image": null,
+          "name": "Деревня Яростного Пламени",
+          "regionId": null
+      },
+      {
+          "id": 96,
+          "image": null,
+          "name": "Катакомбы Чёрного ножа",
+          "regionId": null
+      },
+      {
+          "id": 97,
+          "image": null,
+          "name": "Окраины изменённой башни",
+          "regionId": null
+      },
+      {
+          "id": 98,
+          "image": null,
+          "name": "Храм Беллума",
+          "regionId": null
+      },
+      {
+          "id": 99,
+          "image": null,
+          "name": "Храм сдержанности",
+          "regionId": null
+      },
+      {
+          "id": 100,
+          "image": null,
+          "name": "Ворота Селлии",
+          "regionId": null
+      },
+      {
+          "id": 101,
+          "image": null,
+          "name": "Глубины реки Сиофра",
+          "regionId": null
+      },
+      {
+          "id": 102,
+          "image": null,
+          "name": "Заброшенная пещера",
+          "regionId": null
+      },
+      {
+          "id": 103,
+          "image": null,
+          "name": "Замок Рыжей Гривы",
+          "regionId": null
+      },
+      {
+          "id": 104,
+          "image": null,
+          "name": "Катакомбы Звёздных пустошей",
+          "regionId": null
+      },
+      {
+          "id": 105,
+          "image": null,
+          "name": "Катакомбы малого Древа Эрд",
+          "regionId": null
+      },
+      {
+          "id": 106,
+          "image": null,
+          "name": "Катакомбы мёртвых воинов",
+          "regionId": null
+      },
+      {
+          "id": 107,
+          "image": null,
+          "name": "Лачуга гнили",
+          "regionId": null
+      },
+      {
+          "id": 108,
+          "image": null,
+          "name": "Лачуга Гоури",
+          "regionId": null
+      },
+      {
+          "id": 109,
+          "image": null,
+          "name": "Малое Древо Эрд (Звёздные пустоши)",
+          "regionId": null
+      },
+      {
+          "id": 110,
+          "image": null,
+          "name": "Отверженные руины",
+          "regionId": null
+      },
+      {
+          "id": 111,
+          "image": null,
+          "name": "Руины Калема",
+          "regionId": null
+      },
+      {
+          "id": 112,
+          "image": null,
+          "name": "Руины поселения Звёздных пустошей",
+          "regionId": null
+      },
+      {
+          "id": 113,
+          "image": null,
+          "name": "Руины улицы мудрецов",
+          "regionId": null
+      },
+      {
+          "id": 114,
+          "image": null,
+          "name": "Селлия, город магии",
+          "regionId": null
+      },
+      {
+          "id": 115,
+          "image": null,
+          "name": "Сторожевая башня болота",
+          "regionId": null
+      },
+      {
+          "id": 116,
+          "image": null,
+          "name": "Тлеющий храм",
+          "regionId": null
+      },
+      {
+          "id": 117,
+          "image": null,
+          "name": "Туннель Гаэля",
+          "regionId": null
+      },
+      {
+          "id": 118,
+          "image": null,
+          "name": "Тюремная пещера",
+          "regionId": null
+      },
+      {
+          "id": 119,
+          "image": null,
+          "name": "Убежище в Селлии",
+          "regionId": null
+      },
+      {
+          "id": 120,
+          "image": null,
+          "name": "Форт Гаэль",
+          "regionId": null
+      },
+      {
+          "id": 121,
+          "image": null,
+          "name": "Храм драконьего причастия (Звёздные пустоши)",
+          "regionId": null
+      },
+      {
+          "id": 122,
+          "image": null,
+          "name": "Храм чумы",
+          "regionId": null
+      },
+      {
+          "id": 123,
+          "image": null,
+          "name": "Колизей Звёздных пустошей",
+          "regionId": null
+      },
+      {
+          "id": 124,
+          "image": null,
+          "name": "Башня Ленне",
+          "regionId": null
+      },
+      {
+          "id": 125,
+          "image": null,
+          "name": "Звериное прибежище",
+          "regionId": null
+      },
+      {
+          "id": 126,
+          "image": null,
+          "name": "Кристальный туннель Селлии",
+          "regionId": null
+      },
+      {
+          "id": 127,
+          "image": null,
+          "name": "Лачуга торговца-затворника (Драконий курган Грейолл)",
+          "regionId": null
+      },
+      {
+          "id": 128,
+          "image": null,
+          "name": "Малое Древо Эрд (Драконий курган)",
+          "regionId": null
+      },
+      {
+          "id": 129,
+          "image": null,
+          "name": "Пещера Драконьего кургана",
+          "regionId": null
+      },
+      {
+          "id": 130,
+          "image": null,
+          "name": "Священная башня Звёздных пустошей",
+          "regionId": null
+      },
+      {
+          "id": 131,
+          "image": null,
+          "name": "Форт Фарот",
+          "regionId": null
+      },
+      {
+          "id": 132,
+          "image": null,
+          "name": "Узилище Селлии",
+          "regionId": null
+      },
+      {
+          "id": 133,
+          "image": null,
+          "name": "Узилище золотой династии",
+          "regionId": null
+      },
+      {
+          "id": 134,
+          "image": null,
+          "name": "Руины Люкса",
+          "regionId": null
+      },
+      {
+          "id": 135,
+          "image": null,
+          "name": "Пещера мудреца",
+          "regionId": null
+      },
+      {
+          "id": 136,
+          "image": null,
+          "name": "Руины парфюмера",
+          "regionId": null
+      },
+      {
+          "id": 137,
+          "image": null,
+          "name": "Отвратительные катакомбы",
+          "regionId": null
+      },
+      {
+          "id": 138,
+          "image": null,
+          "name": "Сумрачный замок",
+          "regionId": null
+      },
+      {
+          "id": 139,
+          "image": null,
+          "name": "Туннель Альтуса",
+          "regionId": null
+      },
+      {
+          "id": 140,
+          "image": null,
+          "name": "Руины Виндхэма",
+          "regionId": null
+      },
+      {
+          "id": 141,
+          "image": null,
+          "name": "Катакомбы Виндхэма",
+          "regionId": null
+      },
+      {
+          "id": 142,
+          "image": null,
+          "name": "Кровавые руины",
+          "regionId": null
+      },
+      {
+          "id": 143,
+          "image": null,
+          "name": "Второй храм Марики",
+          "regionId": null
+      },
+      {
+          "id": 144,
+          "image": null,
+          "name": "Доминула, деревня ветряной мельницы",
+          "regionId": null
+      },
+      {
+          "id": 145,
+          "image": null,
+          "name": "Пастбище деревни ветряной мельницы",
+          "regionId": null
+      },
+      {
+          "id": 146,
+          "image": null,
+          "name": "Пастбище у восточной мельницы",
+          "regionId": null
+      },
+      {
+          "id": 147,
+          "image": null,
+          "name": "Пастбище у западной мельницы",
+          "regionId": null
+      },
+      {
+          "id": 148,
+          "image": null,
+          "name": "Сторожевая башня тракта (Плато Альтус)",
+          "regionId": null
+      },
+      {
+          "id": 149,
+          "image": null,
+          "name": "Старый туннель Альтуса",
+          "regionId": null
+      },
+      {
+          "id": 150,
+          "image": null,
+          "name": "Миражная башня",
+          "regionId": null
+      },
+      {
+          "id": 151,
+          "image": null,
+          "name": "Руины лесного народа",
+          "regionId": null
+      },
+      {
+          "id": 152,
+          "image": null,
+          "name": "Малое Древо Эрд (Плато Альтус)",
+          "regionId": null
+      },
+      {
+          "id": 153,
+          "image": null,
+          "name": "Могила героя-святого",
+          "regionId": null
+      },
+      {
+          "id": 154,
+          "image": null,
+          "name": "Храм буревестника",
+          "regionId": null
+      },
+      {
+          "id": 155,
+          "image": null,
+          "name": "Грот парфюмера",
+          "regionId": null
+      },
+      {
+          "id": 156,
+          "image": null,
+          "name": "Вулканическая пещера",
+          "regionId": null
+      },
+      {
+          "id": 157,
+          "image": null,
+          "name": "Вулканово поместье",
+          "regionId": null
+      },
+      {
+          "id": 158,
+          "image": null,
+          "name": "Деревня отшельников",
+          "regionId": null
+      },
+      {
+          "id": 159,
+          "image": null,
+          "name": "Лачуга мастера",
+          "regionId": null
+      },
+      {
+          "id": 160,
+          "image": null,
+          "name": "Лачуга отшельника",
+          "regionId": null
+      },
+      {
+          "id": 161,
+          "image": null,
+          "name": "Лачуга трупного запаха",
+          "regionId": null
+      },
+      {
+          "id": 162,
+          "image": null,
+          "name": "Малое Древо Эрд (Вулкан Гельмир)",
+          "regionId": null
+      },
+      {
+          "id": 163,
+          "image": null,
+          "name": "Могила героя Гельмира",
+          "regionId": null
+      },
+      {
+          "id": 164,
+          "image": null,
+          "name": "Пещера Кипящей реки",
+          "regionId": null
+      },
+      {
+          "id": 165,
+          "image": null,
+          "name": "Форт Лайед",
+          "regionId": null
+      },
+      {
+          "id": 166,
+          "image": null,
+          "name": "Боковая гробница Аурицы",
+          "regionId": null
+      },
+      {
+          "id": 167,
+          "image": null,
+          "name": "Запечатанный туннель",
+          "regionId": null
+      },
+      {
+          "id": 168,
+          "image": null,
+          "name": "Лачуга торговца-отшельника (Окраины столицы)",
+          "regionId": null
+      },
+      {
+          "id": 169,
+          "image": null,
+          "name": "Малое Древо Эрд (Окраины столицы)",
+          "regionId": null
+      },
+      {
+          "id": 170,
+          "image": null,
+          "name": "Могила героя Аурицы",
+          "regionId": null
+      },
+      {
+          "id": 171,
+          "image": null,
+          "name": "Священная башня Восточного Альтуса",
+          "regionId": null
+      },
+      {
+          "id": 172,
+          "image": null,
+          "name": "Священная башня Западного Альтуса",
+          "regionId": null
+      },
+      {
+          "id": 173,
+          "image": null,
+          "name": "Храм малого Древа Эрд",
+          "regionId": null
+      },
+      {
+          "id": 174,
+          "image": null,
+          "name": "Лейнделл, столица королевства",
+          "regionId": null
+      },
+      {
+          "id": 175,
+          "image": null,
+          "name": "Укреплённое поместье",
+          "regionId": null
+      },
+      {
+          "id": 176,
+          "image": null,
+          "name": "Королевский Колизей",
+          "regionId": null
+      },
+      {
+          "id": 177,
+          "image": null,
+          "name": "Катакомбы Лейнделла",
+          "regionId": null
+      },
+      {
+          "id": 178,
+          "image": null,
+          "name": "Подземелье отчуждения",
+          "regionId": null
+      },
+      {
+          "id": 179,
+          "image": null,
+          "name": "Проскрипция Яростного Пламени",
+          "regionId": null
+      },
+      {
+          "id": 180,
+          "image": null,
+          "name": "Лейнделл, столица пепла",
+          "regionId": null
+      },
+      {
+          "id": 181,
+          "image": null,
+          "name": "Большой подъёмник Рольда",
+          "regionId": null
+      },
+      {
+          "id": 182,
+          "image": null,
+          "name": "Гарнизон стражей",
+          "regionId": null
+      },
+      {
+          "id": 183,
+          "image": null,
+          "name": "Еретическая башня",
+          "regionId": null
+      },
+      {
+          "id": 184,
+          "image": null,
+          "name": "Замок Сол",
+          "regionId": null
+      },
+      {
+          "id": 185,
+          "image": null,
+          "name": "Катакомбы на Вершине великанов",
+          "regionId": null
+      },
+      {
+          "id": 186,
+          "image": null,
+          "name": "Кузница великанов",
+          "regionId": null
+      },
+      {
+          "id": 187,
+          "image": null,
+          "name": "Лачуга гигантов",
+          "regionId": null
+      },
+      {
+          "id": 188,
+          "image": null,
+          "name": "Малое Древо Эрд (Вершины великанов)",
+          "regionId": null
+      },
+      {
+          "id": 189,
+          "image": null,
+          "name": "Могила героя, победителя великанов",
+          "regionId": null
+      },
+      {
+          "id": 190,
+          "image": null,
+          "name": "Первый храм Марики",
+          "regionId": null
+      },
+      {
+          "id": 191,
+          "image": null,
+          "name": "Пещера призывателя душ",
+          "regionId": null
+      },
+      {
+          "id": 192,
+          "image": null,
+          "name": "Руины Замора",
+          "regionId": null
+      },
+      {
+          "id": 193,
+          "image": null,
+          "name": "Руины звездочётов",
+          "regionId": null
+      },
+      {
+          "id": 194,
+          "image": null,
+          "name": "Узилище соперника владыки",
+          "regionId": null
+      },
+      {
+          "id": 195,
+          "image": null,
+          "name": "Храм покоя",
+          "regionId": null
+      },
+      {
+          "id": 196,
+          "image": null,
+          "name": "Альбинорская башня",
+          "regionId": null
+      },
+      {
+          "id": 197,
+          "image": null,
+          "name": "Катакомбы под священным полем",
+          "regionId": null
+      },
+      {
+          "id": 198,
+          "image": null,
+          "name": "Малое Древо Эрд (Священное заснеженное поле)",
+          "regionId": null
+      },
+      {
+          "id": 199,
+          "image": null,
+          "name": "Ордина, литургический город",
+          "regionId": null
+      },
+      {
+          "id": 200,
+          "image": null,
+          "name": "Пещера забытых",
+          "regionId": null
+      },
+      {
+          "id": 201,
+          "image": null,
+          "name": "Руины вероотступников",
+          "regionId": null
+      },
+      {
+          "id": 202,
+          "image": null,
+          "name": "Руины жёлтого аникса",
+          "regionId": null
+      },
+      {
+          "id": 203,
+          "image": null,
+          "name": "Тайный путь к Святому Древу",
+          "regionId": null
+      },
+      {
+          "id": 204,
+          "image": null,
+          "name": "Туннель жёлтого аникса",
+          "regionId": null
+      },
+      {
+          "id": 205,
+          "image": null,
+          "name": "Земли святого рога (южные)",
+          "regionId": null
+      },
+      {
+          "id": 206,
+          "image": null,
+          "name": "Нокрон, Вечный город",
+          "regionId": null
+      },
+      {
+          "id": 207,
+          "image": null,
+          "name": "Священная земля Ночи",
+          "regionId": null
+      },
+      {
+          "id": 208,
+          "image": null,
+          "name": "Земли святого рога (северные)",
+          "regionId": null
+      },
+      {
+          "id": 209,
+          "image": null,
+          "name": "Акведук Сиофры",
+          "regionId": null
+      },
+      {
+          "id": 210,
+          "image": null,
+          "name": "Мавзолей династии Могвинов",
+          "regionId": null
+      },
+      {
+          "id": 211,
+          "image": null,
+          "name": "Руины дворца Уль (южные)",
+          "regionId": null
+      },
+      {
+          "id": 212,
+          "image": null,
+          "name": "Руины дворца Уль (северные)",
+          "regionId": null
+      },
+      {
+          "id": 213,
+          "image": null,
+          "name": "Нокстелла, Вечный город",
+          "regionId": null
+      },
+      {
+          "id": 214,
+          "image": null,
+          "name": "Низовье Глубокого Корня",
+          "regionId": null
+      },
+      {
+          "id": 215,
+          "image": null,
+          "name": "Великий клуатр",
+          "regionId": null
+      },
+      {
+          "id": 216,
+          "image": null,
+          "name": "Святое Древо Микеллы",
+          "regionId": null
+      },
+      {
+          "id": 217,
+          "image": null,
+          "name": "Эльфаэль, опора Святого Древа",
+          "regionId": null
+      },
+      {
+          "id": 218,
+          "image": null,
+          "name": "Разрушающийся Фарум-Азула",
+          "regionId": null
+      }
+  ]
+}

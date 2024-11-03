@@ -17,8 +17,10 @@ class RegionsDataEntity {
 class RegionEntity {
   final int id;
   final String name;
+  final String? image;
+  final List<int> locationIds;
 
-  RegionEntity(this.id, this.name);
+  RegionEntity(this.id, this.name, this.image, this.locationIds);
   factory RegionEntity.fromJson(Map<String, dynamic> json) => _$RegionEntityFromJson(json);
 
   Map<String, dynamic> toJson() => _$RegionEntityToJson(this);

@@ -1,4 +1,4 @@
-name: elden_ring_boss_checklist
+name: elden_ring_companion_app
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -40,6 +40,8 @@ dependencies:
   cookie_jar: ^4.0.8
   dio: ^5.7.0
   json_annotation: ^4.9.0
+  get_it: ^8.0.2
+  path_provider: ^2.1.5
 
 dev_dependencies:
   flutter_test:
@@ -52,3 +54,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/regions.json
+    - assets/locations.json

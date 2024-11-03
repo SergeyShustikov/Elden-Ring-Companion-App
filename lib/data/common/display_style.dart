@@ -1,0 +1,4 @@
+enum DisplayStyle {
+  list,
+  grid,
+}

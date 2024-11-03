@@ -1,4 +1,4 @@
-# elden_ring_boss_checklist
+# Elden Ring Companion App
 
 A new Flutter project.
 

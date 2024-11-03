@@ -1,8 +1,11 @@
-import 'package:elden_ring_boss_checklist/pages/editor_page.dart';
-import 'package:elden_ring_boss_checklist/utils/router_utils.dart';
+import 'package:elden_ring_companion_app/injector.dart';
+import 'package:elden_ring_companion_app/pages/editor/editor_page.dart';
+import 'package:elden_ring_companion_app/utils/router_utils.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await initializeDependencies();
   runApp(const MyApp());
 }
 

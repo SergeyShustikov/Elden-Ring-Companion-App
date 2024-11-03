@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "elden_ring_boss_checklist" "\0"
+            VALUE "CompanyName", "Pandarium" "\0"
+            VALUE "FileDescription", "elden_ring_companion_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "elden_ring_boss_checklist" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "elden_ring_boss_checklist.exe" "\0"
-            VALUE "ProductName", "elden_ring_boss_checklist" "\0"
+            VALUE "InternalName", "elden_ring_companion_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 Pandarium. All rights reserved." "\0"
+            VALUE "OriginalFilename", "elden_ring_companion_app.exe" "\0"
+            VALUE "ProductName", "elden_ring_companion_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

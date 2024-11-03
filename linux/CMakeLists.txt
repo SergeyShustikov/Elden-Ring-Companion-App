@@ -4,10 +4,10 @@ project(runner LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME elden_ring_boss_checklist)
+set(BINARY_NAME elden_ring_companion_app)
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID com.example.elden_ring_boss_checklist)
+set(APPLICATION_ID com.pandarium.elden_ring_companion_app)
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
